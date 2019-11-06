@@ -1,0 +1,50 @@
+{
+  "name": "react-native-magic-text",
+  "author": "risatoar",
+  "description": "create animation for RN Text",
+  "keywords": [
+    "design",
+    "react",
+    "react-component",
+    "component",
+    "components",
+    "ui",
+    "mobile",
+    "react native",
+    "react-native",
+    "rn",
+    "text",
+    "magic"
+  ],
+  "main": "index",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "babel component --ignore __tests__ --out-dir lib --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xuxiang9608/react-native-magic-text.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "color": "^0.11.1",
+    "events": "^1.1.1",
+    "react-addons-shallow-compare": "^15.6.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.50.0",
+    "react": "*",
+    "prop-types": "^15.5.8"
+},
+  "jest": {
+    "preset": "react-native"
+  }
+}
