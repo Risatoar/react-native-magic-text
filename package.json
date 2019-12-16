@@ -17,7 +17,7 @@
     "magic"
   ],
   "main": "index",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:xuxiang9608/react-native-magic-text.git"
+    "url": "git@github.com:Risatoar/react-native-magic-text.git"
   },
   "dependencies": {
   },
