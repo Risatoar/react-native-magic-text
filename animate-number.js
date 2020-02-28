@@ -8,13 +8,13 @@ import { baseDefaultProps, basePropTypes } from './config';
 
 export default class AnimatedNumber extends React.PureComponent {
   static propTypes = {
-    ...baseDefaultProps,
+    ...basePropTypes,
     text: PropTypes.number,
     initialValue: PropTypes.number,
   };
 
   static defaultProps = {
-    ...basePropTypes,
+    ...baseDefaultProps,
     text: 0,
     initialValue: 0,
   };
