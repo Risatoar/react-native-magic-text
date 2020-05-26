@@ -2,13 +2,7 @@
 
 animate for Text.
 
-## 1. Examples
-
-<p align="center">
-  <img src="./res/demo.gif" width=375/>
-</p>
-
-## 2. Basic Usage
+## 1. Basic Usage
 
 how to use react-native-magic-list?:
 
